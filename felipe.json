@@ -1,0 +1,15 @@
+{
+    "nome" : "Felipe Martins dos Santos",
+    "cidade" : "São João Evangelista",
+    "uf" : "MG",
+    "idade" : 20,
+    "altura" : 1.77,
+    "doador" : false,
+    "sinfo" : ["PythonMongoGit", "A arte de Hackear", "Engenharia de Prompt", "A Quarta revolução IA"],
+    "Formação" : {
+        "Fundamental 1" : "Escola Municial Maria de Lourdes Medina Bicalho",
+        "Fundamental 2" : "Escola Estadual Monsenhor Pinheiro",
+        "Médio-Técnico" : "IFMG - Campus São João Evangelista",
+        "Graduação" : "IFMG - Campus São João Evangelista"
+    }
+}
