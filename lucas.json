@@ -5,7 +5,7 @@
 	"idade":"21",
 	"altura":1.67,
 	"doador":true,
-	"sinfo"["PythonMongoGit",
+	"sinfo":["PythonMongoGit",
                 "LightTalks:Painel de seminários",
                 "Arte de Hackear",
                 "A quarta revolução"],
