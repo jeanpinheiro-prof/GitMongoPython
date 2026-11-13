@@ -1,0 +1,17 @@
+{
+	"nome":"Jean Christopher",
+	"cidade":"São Sebastião do Maranhão",
+	"uf":"MG",
+	"idade":34,
+	"altura":1.8,
+	"doador":true,
+	"sinfo":["PythonMongoGit",
+		 "Jogos Digitais",
+		 "Talks",
+		 "Engenharia de Prompt",
+		 "A arte de hackear"],
+	"Formação":{"Graduação":"Sistemas de Informação",
+		    "Pós":"Ciências da Computação"}
+	
+
+}
