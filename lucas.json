@@ -2,7 +2,7 @@
 	"nome":"Lucas Gomes",
 	"cidade":"Itamarandiba",
 	"uf":"MG",
-	"idade":"21",
+	"idade":21,
 	"altura":1.67,
 	"doador":true,
 	"sinfo":["PythonMongoGit",
