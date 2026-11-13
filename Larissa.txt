@@ -1,5 +1,7 @@
 {
 "nome":"Larissa Rocha",
+"cidade":"Cachoeira Alegre",
+"uf":"MG",
 "idade":34,
 "altura":1.67,
 "doador":false,
