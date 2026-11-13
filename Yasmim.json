@@ -1,11 +1,12 @@
-{ "nome" : "Yasmim" ,
-   "idade" : "18" ,
-   "altura" : "1.67" ,
-   "doador" : true ,
-   "sinfo" : ["PythonMongoGit" ,
-              "Jogos digitais",
-              "Talks" ,
-              "Engenharia de Prompt",
-              "A arte de hackear"]
-   "Formação" : {"Graduação" :"Técnico em informática"}
+{	"nome" : "Yasmim" ,
+	"cidade" : "Água good",
+	"idade" : "18" ,
+	"altura" : "1.67" ,
+	"doador" : true ,
+	"sinfo" : ["PythonMongoGit" ,
+ 		"Jogos digitais",
+		"Talks" ,
+		"Engenharia de Prompt",
+		"A arte de hackear"]
+	"Formação" : {"Graduação" :"Técnico em informática"}
 }
