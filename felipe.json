@@ -1,5 +1,7 @@
 {
     "nome" : "Felipe Martins dos Santos",
+    "cidade" : "São João Evangelista",
+    "uf" : "MG",
     "idade" : 20,
     "altura" : 1.77,
     "doador" : false,
