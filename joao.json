@@ -1,0 +1,13 @@
+{
+	"alias":"qx",
+	"nome":"joao qx",
+	"idade": 16,
+	"cidade":São joao evangelista,
+	"uf":"MG",
+	"altura": 1.7,
+	"doador": "false",
+	"sinfo":["pythonMongoGit",
+		"jogos digitais",
+		"palestra hacker"]
+
+	}
